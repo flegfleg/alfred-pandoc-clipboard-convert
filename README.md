@@ -1,4 +1,7 @@
-# alfred-pandoc-clipboard-convert
+# PanClip
+
+Convert clipboard contents to html, mediawiki, markdown…  
+
 [Alfred.app](https://www.alfredapp.com) - Workflow: convert plain text clipboards via [Pandoc](http://pandoc.org).
 
 ## Prerequisites
