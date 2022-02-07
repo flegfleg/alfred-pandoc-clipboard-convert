@@ -1,8 +1,14 @@
-# alfred-pandoc-clipboard-convert
-[Alfred.app](https://www.alfredapp.com) - Workflow: convert plain text clipboards via Pandoc.
+# PanClip
+
+Convert clipboard contents to html, mediawiki, markdown…  
+
+[Alfred.app](https://www.alfredapp.com) - Workflow: convert plain text clipboards via [Pandoc](http://pandoc.org).
+
+## Prerequisites
+
+[Pandoc](http://pandoc.org) must be installed. 
 
 ## Usage 
-
 
 1. Copy text you want to convert (e.g. HTML, Markdown, Mediawiki)
 2. Open Alfred
@@ -11,14 +17,7 @@
 
 Example: `panclip html-markdown`
 
-For a list of supported formats, see http://pandoc.org/README.html
-
-## N.B.
-
-[Pandoc](http://pandoc.org) must be installed. 
-
-Also: I couldn´t find a nice icon for Pandoc, so i created one. Feel free to use/modify.
-
+**NOTE:** Panclip only supports plain text sources and outputs (HTML, Markdown, Mediawiki, ...)
 
 ## Screenshot
 
